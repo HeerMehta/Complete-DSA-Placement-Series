@@ -12,6 +12,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -24,3 +25,15 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0148-sort-list) |
+# Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
+# Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
