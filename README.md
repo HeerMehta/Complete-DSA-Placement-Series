@@ -12,6 +12,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
 # Divide and Conquer
 |  |
@@ -37,3 +38,11 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
+# Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0202-happy-number) |
+# Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0202-happy-number) |
