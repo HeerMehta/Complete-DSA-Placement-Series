@@ -54,10 +54,12 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 # Tree
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
 | [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
 # Depth-First Search
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
 | [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
 # Breadth-First Search
 |  |
@@ -66,4 +68,9 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 # Binary Tree
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
 | [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
