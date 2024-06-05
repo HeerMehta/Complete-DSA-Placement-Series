@@ -51,3 +51,19 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1791-richest-customer-wealth) |
+# Tree
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
+# Depth-First Search
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
+# Binary Tree
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
