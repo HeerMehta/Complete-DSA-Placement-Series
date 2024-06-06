@@ -61,12 +61,14 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 # Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0437-path-sum-iii) |
 | [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0310-minimum-height-trees) |
 | [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
 # Binary Tree
 |  |
@@ -88,3 +90,11 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0095-unique-binary-search-trees-ii) |
+# Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0310-minimum-height-trees) |
+# Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0310-minimum-height-trees) |
