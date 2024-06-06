@@ -54,6 +54,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 # Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0095-unique-binary-search-trees-ii) |
 | [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0437-path-sum-iii) |
 | [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
@@ -70,10 +71,20 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 # Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0095-unique-binary-search-trees-ii) |
 | [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0437-path-sum-iii) |
 | [1254-deepest-leaves-sum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1254-deepest-leaves-sum) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0095-unique-binary-search-trees-ii) |
 | [0337-house-robber-iii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0337-house-robber-iii) |
+# Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0095-unique-binary-search-trees-ii) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0095-unique-binary-search-trees-ii) |
