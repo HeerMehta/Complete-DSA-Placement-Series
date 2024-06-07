@@ -19,7 +19,6 @@ public:
         dummy->next = head;
 
         ListNode* prevToLeft = dummy;
-        prevToLeft->next = head;
 
         ListNode* leftNode;
         ListNode* rightNode;
