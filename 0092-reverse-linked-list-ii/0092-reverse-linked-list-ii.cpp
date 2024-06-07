@@ -12,9 +12,7 @@ class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if(!head || !head->next || left == right) return head;
-
-        ListNode* curr = head;
-
+        
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
 
@@ -25,20 +23,20 @@ public:
 
         int index = 1;
 
-        while(curr && index < right){
-            if(index + 1 == left){
-                prevToLeft = curr;
-            }
+        ListNode* curr = head;
 
-            if(index == left){
-                leftNode = curr;
-            }
+        while(curr && index < right){
+            if(index + 1 == left) prevToLeft = curr;
+
+            if(index == left) leftNode = curr;
+
             curr = curr->next;
             index++;
         }
 
         rightNode = curr;
 
+        //Reverse the sublist
         curr = leftNode;
         ListNode* next = leftNode->next;
 
@@ -54,7 +52,6 @@ public:
 
         leftNode->next = nextToRight;
         prevToLeft->next = rightNode;
-
 
         return dummy->next;
     }
