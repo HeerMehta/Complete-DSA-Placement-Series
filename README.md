@@ -8,12 +8,14 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0148-sort-list) |
 # Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
