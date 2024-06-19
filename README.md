@@ -35,6 +35,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
 | [1791-richest-customer-wealth](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1791-richest-customer-wealth) |
 # Binary Search
 |  |
@@ -103,3 +104,11 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0310-minimum-height-trees) |
+# Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
