@@ -34,6 +34,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 # Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0287-find-the-duplicate-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
 | [1791-richest-customer-wealth](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1791-richest-customer-wealth) |
@@ -107,8 +108,10 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 # Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
