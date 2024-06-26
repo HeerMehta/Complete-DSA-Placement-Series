@@ -109,9 +109,19 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0739-daily-temperatures) |
+# String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0402-remove-k-digits) |
+# Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0402-remove-k-digits) |
