@@ -125,3 +125,18 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0402-remove-k-digits) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0232-implement-queue-using-stacks) |
+<!---LeetCode Topics End-->
