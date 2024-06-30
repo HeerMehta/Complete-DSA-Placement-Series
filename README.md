@@ -137,9 +137,19 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
+## Array
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
