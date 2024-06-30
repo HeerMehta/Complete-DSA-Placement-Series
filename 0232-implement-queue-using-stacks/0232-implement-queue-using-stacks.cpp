@@ -2,30 +2,34 @@ class MyQueue {
 public:
 
     stack<int> st;
+
     MyQueue() {
         
     }
     
     void push(int x) {
-        if(st.empty()){
-            st.push(x);
-            return;
-        }
+       //Base Case
+       if(st.empty()){
+        st.push(x);
+        return;
+       }
 
-        int top = st.top();
-        st.pop();
-        push(x);
-        st.push(top);
+       //Recursive Case
+       int top = st.top();
+       st.pop();
+       push(x);
+       st.push(top); 
     }
     
     int pop() {
-       int top = st.top();
+       int front = st.top();
        st.pop();
-       return top; 
+
+       return front; 
     }
     
     int peek() {
-       return st.top(); 
+        return st.top();
     }
     
     bool empty() {
