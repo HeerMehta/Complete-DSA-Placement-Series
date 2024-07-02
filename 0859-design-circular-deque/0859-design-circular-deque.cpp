@@ -7,9 +7,9 @@ public:
     int size;
 
     MyCircularDeque(int k) {
-        arr.resize(k);
-        capacity = k;
-        front = k - 1;
+        arr.resize(k+1);
+        capacity = k+1;
+        front = k;
         rear = 0;
         size = 0;
     }
@@ -65,7 +65,7 @@ public:
     }
 
     bool isFull() {
-        return size == capacity;
+        return size == capacity-1;
     }
 };
 
