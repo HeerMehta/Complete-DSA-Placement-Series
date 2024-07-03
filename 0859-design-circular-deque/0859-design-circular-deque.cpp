@@ -1,71 +1,76 @@
 class MyCircularDeque {
 public:
-    vector<int> arr;
-    int capacity;
-    int front;
-    int rear;
+
+    int capacity = 0;
     int size;
+    int rear;
+    int front;
+    vector<int> arr;
 
     MyCircularDeque(int k) {
-        arr.resize(k+1);
-        capacity = k+1;
-        front = k;
+        arr.resize(k);
+        capacity = k;
+        front = k-1;
         rear = 0;
         size = 0;
     }
-
+    
     bool insertFront(int value) {
-        if (isFull())
-            return false;
+        if(isFull()) return false;
+
         arr[front] = value;
-        front = (front - 1 + capacity) % capacity;
+        front = (front + capacity - 1)%capacity;
         size++;
+
         return true;
     }
-
+    
     bool insertLast(int value) {
-        if (isFull())
-            return false;
+        if(isFull()) return false;
+
         arr[rear] = value;
-        rear = (rear + 1) % capacity;
+        rear = (rear + 1)%capacity;
         size++;
+
         return true;
     }
-
+    
     bool deleteFront() {
-        if (isEmpty())
-            return false;
-        front = (front + 1) % capacity;
+        if(isEmpty()) return false;
+
+        front = (front+1)%capacity;
         size--;
+
         return true;
     }
-
+    
     bool deleteLast() {
-        if (isEmpty())
-            return false;
-        rear = (rear - 1 + capacity) % capacity;
-        size--;
-        return true;
-    }
+       if(isEmpty()) return false;
 
+       rear = (rear + capacity -1)%capacity;
+       size--;
+
+       return true; 
+    }
+    
     int getFront() {
-        if (isEmpty())
-            return -1;
-        return arr[(front + 1) % capacity];
-    }
+        if(isEmpty()) return -1;
 
+        return arr[(front+1)%capacity];
+    }
+    
     int getRear() {
-        if (isEmpty())
-            return -1;
-        return arr[(rear - 1 + capacity) % capacity];
-    }
+        if(isEmpty()) return -1;
 
+        return arr[(rear + capacity - 1)%capacity];
+    }
+    
     bool isEmpty() {
-        return size == 0;
+       return size == 0; 
     }
-
+    
     bool isFull() {
-        return size == capacity-1;
+       return size == capacity; 
     }
 };
 
