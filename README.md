@@ -147,9 +147,30 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
 | [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
