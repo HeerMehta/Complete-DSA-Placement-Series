@@ -147,6 +147,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
 | [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
 ## Linked List
@@ -164,6 +165,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -181,4 +183,8 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
