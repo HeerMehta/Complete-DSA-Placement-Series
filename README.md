@@ -158,6 +158,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,4 +189,20 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
