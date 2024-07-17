@@ -185,6 +185,7 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0344-reverse-string) |
+| [1205-defanging-an-ip-address](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1205-defanging-an-ip-address) |
 ## Matrix
 |  |
 | ------- |
