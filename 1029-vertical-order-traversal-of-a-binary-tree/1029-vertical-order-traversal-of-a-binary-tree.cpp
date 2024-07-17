@@ -15,9 +15,9 @@ public:
         if(!root) return {};
 
         map<int, map<int, vector<int>>> mp;
-        queue<pair<pair<int, int>, TreeNode*>> q;
+        queue<pair<pair<int,int>, TreeNode*>> q;
 
-        q.push({{0, 0}, root});
+        q.push({{0,0}, root});
 
         while(!q.empty()){
             int level = q.front().first.first;
@@ -36,7 +36,7 @@ public:
         vector<vector<int>> ans;
 
         for(auto it1 = mp.begin(); it1 != mp.end(); it1++){
-            vector<int> temp;
+             vector<int> temp;
             for(auto it2 = it1->second.begin(); it2 != it1->second.end(); it2++){
                 sort(it2->second.begin(), it2->second.end());
 
@@ -49,6 +49,5 @@ public:
         }
 
         return ans;
-
     }
 };
