@@ -143,11 +143,13 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
 ## Array
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0074-search-a-2d-matrix) |
+| [0239-sliding-window-maximum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0268-missing-number) |
 | [0859-design-circular-deque](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0859-design-circular-deque) |
 ## Linked List
@@ -206,4 +208,16 @@ Follow my channel [Programming with Heer](https://www.youtube.com/@ProgrammingWi
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HeerMehta/Complete-DSA-Placement-Series/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
